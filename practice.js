@@ -83,7 +83,7 @@ reversedLooper(letters)
 var nums = [1,2,3,6,22,98,45,23,22,12];
 // Do not edit the code above.
 
-/*
+/* 
   Write a function named evenFinder that is given nums as it's only argument.
   Return an array that contains the even numbers from the nums array.
 */
